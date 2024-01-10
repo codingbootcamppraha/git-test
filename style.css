@@ -7,6 +7,10 @@ html {
   font-size: 18px;
 }
 
+body {
+  background-color: gray;
+}
+
 article {
   width: 48rem;
   margin: 0 auto;
